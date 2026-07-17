@@ -63,4 +63,4 @@ This project is built purely for educational and portfolio purposes to practice 
 
 ## Author
 
-Built as a self-driven front-end practice project. <br> By Tanmoy shil.
+Built as a self-driven front-end practice project. <br> By Tanmoy shil (CE).
