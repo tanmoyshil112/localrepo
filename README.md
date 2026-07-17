@@ -1,4 +1,3 @@
-README Localrepo
 # Amazon Clone
 
 A front-end clone of the Amazon India homepage, built from scratch using HTML and CSS as a practice project to strengthen layout, styling, and responsive design fundamentals.
@@ -25,15 +24,17 @@ This project recreates the core visual structure of the Amazon.in homepage, incl
 
 ## Project Structure
 
+```text
 project-folder/
 ├── index.html
 ├── style.css
 ├── amazon_logo.png
 ├── hero_image1.jpg
-├── card1/              # Laptop product images
-├── hedphones/           # Headphone product images
-├── row/                 # Best seller product images
-└── rendom/               # Footer assets (flag icon, etc.)
+├── card1/          (Laptop product images)
+├── hedphones/       (Headphone product images)
+├── row/             (Best seller product images)
+└── rendom/          (Footer assets, flag icon, etc.)
+```
 
 ## Key CSS Concepts Used
 
